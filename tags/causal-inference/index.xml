@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causal inference on Nahomi Ichino</title>
+    <link>https://nahomi.github.io/tags/causal-inference/</link>
+    <description>Recent content in causal inference on Nahomi Ichino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nahomi.github.io/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days</title>
+      <link>https://nahomi.github.io/publications/egapbook/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomi.github.io/publications/egapbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Qualitative Information to Improve Causal Inference</title>
+      <link>https://nahomi.github.io/publications/qualci/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomi.github.io/publications/qualci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models, Methods and Network Topology:  Experimental Design for the Study of Interference</title>
+      <link>https://nahomi.github.io/publications/networktopology/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomi.github.io/publications/networktopology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing Inferential Leverage in the Comparative Method: Placebo Tests in Small-n Research</title>
+      <link>https://nahomi.github.io/publications/placebo_smr/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomi.github.io/publications/placebo_smr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
