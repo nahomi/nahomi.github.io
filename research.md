@@ -12,7 +12,7 @@ layout: default
 
 - Glynn, Adam N., and Nahomi Ichino.  2016.  [``Increasing Inferential Leverage in the Comparative Method: Placebo Tests in Small-$n$ Research.''](https://doi.org/10.1177/0049124114528879") _Sociological Methods and Research_ 45(3): 598--629.
 
-- Glynn, Adam N., and Nahomi Ichino.  2015.  [``Using Qualitative Information to Improve Causal Inference.''](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12154/abstract) \emph{American Journal of Political Science} 59(4): 1055--71. 
+- Glynn, Adam N., and Nahomi Ichino.  2015.  [``Using Qualitative Information to Improve Causal Inference.''](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12154/abstract) _American Journal of Political Science_ 59(4): 1055--71. 
 
 - Ichino, Nahomi, and Noah L.~Nathan.  2013. [``Crossing the Line: Local Ethnic Geography and Voting in Ghana.''](http://dx.doi.org/10.1017/S0003055412000664)  _American Political Science Review_ 107(2): 344--61. 
 
