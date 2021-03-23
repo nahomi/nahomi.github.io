@@ -21,10 +21,20 @@ layout: default
 - Ichino, Nahomi, and Noah L. Nathan.  2012. ["Primaries on Demand? Intra-Party Politics and Nominations in Ghana"](http://dx.doi.org/10.1017/S0007123412000014)
 _British Journal of Political Science_ 42(4): 769--91.
 
-- Ichino, Nahomi, and Matthias Schuendeln.  2012.  ["Deterring or Displacing Electoral Irregularities? Spillover Effects of Observers in a Randomized Field Experiment in Ghana.""](http://dx.doi.org/10.1017/S0022381611001368)  _Journal of Politics_ 74(1):292--307. 
+- Ichino, Nahomi, and Matthias Schuendeln.  2012.  ["Deterring or Displacing Electoral Irregularities? Spillover Effects of Observers in a Randomized Field Experiment in Ghana."](http://dx.doi.org/10.1017/S0022381611001368)  _Journal of Politics_ 74(1):292--307. 
 
 ## Working Papers
 
 - Glynn, Adam N. and Nahomi Ichino. 2019.   ["Generalized Nonlinear Difference-in-Difference-in-Differences."](https://www.v-dem.net/media/filer_public/ee/9d/ee9dc47c-6bbf-46b6-9752-0773435cf4d5/v-dem_working_paper_2019_90.pdf)  V-Dem Institute Working Paper Series 2019:90.
+
+## Other Projects
+
+- Foundations of Small-Sample Causal Inference (with Adam Glynn)
+
+- Women's Participation in Local Politics in Ghana (with Noah Nathan)
+
+- Debate, Discussion, and Gender in Nepal
+
+
 
 [back](./)
