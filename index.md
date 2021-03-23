@@ -15,3 +15,5 @@ She was previously on the faculty in the Department of Government at Harvard Uni
 - [Teaching](./teaching.html)
 
 - [Students](./students.html)
+
+- [Collaborators](./collaborators.html)

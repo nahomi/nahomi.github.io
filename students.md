@@ -37,7 +37,7 @@ layout: default
 
 - [Julie K. Faller](https://www.linkedin.com/in/julie-faller-phd) (Harvard, 2015; GiveWell)
 
-- [Noah L. Nathan](https://sites.lsa.umich.edu/noahnathan/) (Harvard, 2016; Michigan)
+- [Noah L. Nathan](https://sites.lsa.umich.edu/noahnathan/) (Harvard, 2016; University of Michigan)
 
 - [Ana Catalano Weeks](https://scholar.harvard.edu/anacweeks/home) (Harvard, 2016; University of Bath)
 
