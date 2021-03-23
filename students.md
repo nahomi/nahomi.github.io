@@ -27,19 +27,19 @@ layout: default
 
 ## Former Students
 
-- Janet Lewis (Harvard, 2012; George Washington University)
+- [Janet Lewis](http://www.janetilewis.com) (Harvard, 2012; George Washington University)
 
-- Sarah Shehabuddin (Harvard, 2012; Asian University for Women, Bangladesh)
+- [Sarah Shehabuddin](https://scholar.harvard.edu/shehabuddin/home) (Harvard, 2012; BRAC Universeity, Bangladesh)
 
-- Cathering Kelly (Harvard, 2013; first placement, postdoc WUSTL)
+- [Catherine Kelly](https://africacenter.org/experts/dr-catherine-lena-kelly/) (Harvard, 2013; Africa Center for Strategic Studies)
 
-- Christopher Rhodes (Harvard, 2015; first placement, postdoc Holy Cross)
+- [Christopher Rhodes](https://www.bu.edu/cgs/profile/christopher-rhodes/) (Harvard, 2015; first placement, Boston University)
 
-- Julie K. Faller (Harvard, 2015; first placement, Wellspring)
+- [Julie K. Faller](https://www.linkedin.com/in/julie-faller-phd) (Harvard, 2015; GiveWell)
 
-- Noah L. Nathan (Harvard, 2016; Michigan)
+- [Noah L. Nathan](https://sites.lsa.umich.edu/noahnathan/) (Harvard, 2016; Michigan)
 
-- Ana Catalano Weeks (Harvard, 2016; University of Bath)
+- [Ana Catalano Weeks](https://scholar.harvard.edu/anacweeks/home) (Harvard, 2016; University of Bath)
 
 
 [back](./)
