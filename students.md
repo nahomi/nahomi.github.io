@@ -4,9 +4,9 @@ layout: default
 
 ## Current Students
 
-- Yuequan Guo (Michigan)
-
 - [Eitan Paul](https://sites.lsa.umich.edu/eitanp/) (Michigan)
+
+- Yuequan Guo (Michigan)
 
 - [Htet Thiha Zaw](https://sites.lsa.umich.edu/htzaw/) (Michigan)
 
