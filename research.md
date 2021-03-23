@@ -6,11 +6,11 @@ layout: default
 
 - Ichino, Nahomi and Noah L. Nathan. 2021.  "Democratizing the Party: The Effects of Primary Election Reforms in Ghana."  Forthcoming, _British Journal of Political Science_.
 
-- Ahlquist, John, Nahomi Ichino, Jason Wittenberg, and Daniel Ziblatt.  2018.  ["How Do Voters Perceive Changes to the Rules of the Game? Evidence from the 2014 Hungarian Elections.""](https://doi.org/10.1016/j.jce.2018.01.001) _Journal of Comparative Economics_ 46: 906--19.
+- Ahlquist, John, Nahomi Ichino, Jason Wittenberg, and Daniel Ziblatt.  2018.  ["How Do Voters Perceive Changes to the Rules of the Game? Evidence from the 2014 Hungarian Elections."](https://doi.org/10.1016/j.jce.2018.01.001) _Journal of Comparative Economics_ 46: 906--19.
 
 - Bowers, Jake, Bruce A.~Desmarais, Mark M. Fredrickson, Nahomi Ichino, Hsuan-Wei Lee, and Simi Wang.  2018.  ["Models, Methods and Network Topology:  Experimental Design for the Study of Interference."](https://doi.org/10.1016/j.socnet.2018.01.010) _Social Networks_ 54: 196--208. 
 
-- Glynn, Adam N., and Nahomi Ichino.  2016.  ["Increasing Inferential Leverage in the Comparative Method: Placebo Tests in Small-$n$ Research."](https://doi.org/10.1177/0049124114528879") _Sociological Methods and Research_ 45(3): 598--629.
+- Glynn, Adam N., and Nahomi Ichino.  2016.  ["Increasing Inferential Leverage in the Comparative Method: Placebo Tests in Small-n Research."](https://doi.org/10.1177/0049124114528879") _Sociological Methods and Research_ 45(3): 598--629.
 
 - Glynn, Adam N., and Nahomi Ichino.  2015.  ["Using Qualitative Information to Improve Causal Inference."](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12154/abstract) _American Journal of Political Science_ 59(4): 1055--71. 
 
