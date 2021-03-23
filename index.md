@@ -9,8 +9,10 @@ Ph.D. Stanford University, B.A. Yale University
 
 [CV](https://www.dropbox.com/s/il77d29xkwf552m/ichino-cv.pdf?dl=0)
 
-- [NEW: Bowers, Voors, and Ichino.  2021.  _The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days_](https://egap.github.io/theory_and_practice_of_field_experiments/)
+- [NEW: Bowers, Voors, and Ichino.  2021.  _The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days_](https://egap.github.io/theory_and_practice_of_field_experiments/) (Open access resource)
 
 - [Research](./research.html)
 
 - [Teaching](./teaching.html)
+
+- [Students](./students.html)
