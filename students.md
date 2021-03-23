@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Current Students
+## Current PhD Students
 
 - [Eitan Paul](https://sites.lsa.umich.edu/eitanp/) (Michigan)
 
@@ -25,7 +25,7 @@ layout: default
 - Layla Brooks (Emory)
 
 
-## Former Students
+## Former PhD Students
 
 - [Janet Lewis](http://www.janetilewis.com) (Harvard, 2012; George Washington University)
 
@@ -33,7 +33,7 @@ layout: default
 
 - [Catherine Kelly](https://africacenter.org/experts/dr-catherine-lena-kelly/) (Harvard, 2013; Africa Center for Strategic Studies)
 
-- [Christopher Rhodes](https://www.bu.edu/cgs/profile/christopher-rhodes/) (Harvard, 2015; first placement, Boston University)
+- [Christopher Rhodes](https://www.bu.edu/cgs/profile/christopher-rhodes/) (Harvard, 2015; Boston University)
 
 - [Julie K. Faller](https://www.linkedin.com/in/julie-faller-phd) (Harvard, 2015; GiveWell)
 
