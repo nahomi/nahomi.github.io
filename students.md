@@ -6,23 +6,24 @@ layout: default
 
 - Yuequan Guo (Michigan)
 
-- Eitan Paul (Michigan)
+- [Eitan Paul](https://sites.lsa.umich.edu/eitanp/) (Michigan)
 
-- Htet Thiha Zaw (Michigan)
+- [Htet Thiha Zaw](https://sites.lsa.umich.edu/htzaw/) (Michigan)
 
 - Devon Thurman (Emory)
 
 - Sinisa Miric (Emory)
 
-- Guoer Liu (Michigan)
+- [Guoer Liu](https://lsa.umich.edu/polisci/people/graduate-students/guoerliu.html) (Michigan)
 
-- Peter Carroll (Michigan)
+- [Peter Carroll](https://www.peterpcarroll.com/bio) (Michigan)
 
 - Lazare Kovo (Emory)
 
 - Eddy Yeung (Emory)
 
 - Layla Brooks (Emory)
+
 
 ## Former Students
 
