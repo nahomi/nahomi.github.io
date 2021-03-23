@@ -31,7 +31,7 @@ _British Journal of Political Science_ 42(4): 769--91.
 
 - Foundations of Small-Sample Causal Inference (with Adam Glynn)
 
-- Women's Participation in Local Politics in Ghana (with Noah Nathan)
+- Political Party Organization and Women's Empowerment (with Noah Nathan)
 
 - Debate, Discussion, and Gender in Nepal
 
