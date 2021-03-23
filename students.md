@@ -29,7 +29,7 @@ layout: default
 
 - [Janet Lewis](http://www.janetilewis.com) (Harvard, 2012; George Washington University)
 
-- [Sarah Shehabuddin](https://scholar.harvard.edu/shehabuddin/home) (Harvard, 2012; BRAC Universeity, Bangladesh)
+- [Sarah Shehabuddin](https://scholar.harvard.edu/shehabuddin/home) (Harvard, 2012; BRAC University, Bangladesh)
 
 - [Catherine Kelly](https://africacenter.org/experts/dr-catherine-lena-kelly/) (Harvard, 2013; Africa Center for Strategic Studies)
 
