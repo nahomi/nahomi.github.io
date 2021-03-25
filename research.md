@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[NEW: Bowers, Voors, and Ichino.  2021.  _The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days_](https://egap.github.io/theory_and_practice_of_field_experiments/) (Open access resource)
 
 ## Publications
 
@@ -29,7 +30,7 @@ _British Journal of Political Science_ 42(4): 769--91.
 
 ## Other Projects
 
-- Foundations of Small-Sample Causal Inference (with Adam Glynn)
+- Foundations of Small-Sample Causal Inference (book project with Adam Glynn)
 
 - Political Party Organization and Women's Empowerment (with Noah Nathan)
 
