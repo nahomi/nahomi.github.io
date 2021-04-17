@@ -16,8 +16,6 @@ layout: default
 
 - [Guoer Liu](https://lsa.umich.edu/polisci/people/graduate-students/guoerliu.html) (Michigan)
 
-- [Peter Carroll](https://www.peterpcarroll.com/bio) (Michigan)
-
 - Lazare Kovo (Emory)
 
 - Eddy Yeung (Emory)
