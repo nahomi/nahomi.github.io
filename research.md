@@ -5,7 +5,7 @@ layout: default
 
 ## Publications
 
-- Ichino, Nahomi and Noah L. Nathan. 2021.  ["Democratizing the Party: The Effects of Primary Election Reforms in Ghana."](./docs/IchinoNathan_primaries2016_BJPS.pdf)  Forthcoming, _British Journal of Political Science_.
+- Ichino, Nahomi and Noah L. Nathan. 2021.  ["Democratizing the Party: The Effects of Primary Election Reforms in Ghana."](https://www.doi.org/10.1017/S0007123421000028)  Published on _FirstView_ (vol/issue tba), _British Journal of Political Science_.
 
 - Ahlquist, John, Nahomi Ichino, Jason Wittenberg, and Daniel Ziblatt.  2018.  ["How Do Voters Perceive Changes to the Rules of the Game? Evidence from the 2014 Hungarian Elections."](https://doi.org/10.1016/j.jce.2018.01.001) _Journal of Comparative Economics_ 46: 906--19.  [(Replication code and data)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9ZPFF9)
 
