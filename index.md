@@ -9,7 +9,7 @@ She was previously on the faculty in the Department of Government at Harvard Uni
 She is the Trainings Director for [EGAP (Evidence in Governance and Politics)](https://egap.org), coordinating and organizing the [EGAP Learning Days](https://egap.org/learning-days/) with EGAP staff.
 
 
-[CV](https://www.dropbox.com/s/il77d29xkwf552m/ichino-cv.pdf?dl=0)
+[CV](./docs/ichino-cv.pdf)
 
 - [*NEW*: Bowers, Voors, and Ichino.  2021.  _The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days_](https://egap.github.io/theory_and_practice_of_field_experiments/) (Open access resource)
 
