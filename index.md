@@ -8,6 +8,7 @@ She was previously on the faculty in the Department of Government at Harvard Uni
 
 She is the Trainings Director for [EGAP (Evidence in Governance and Politics)](https://egap.org), coordinating and organizing the [EGAP Learning Days](https://egap.org/learning-days/) with EGAP staff.
 
+_On sabbatical until August 2022_
 
 [CV](./docs/ichino-cv.pdf)
 
