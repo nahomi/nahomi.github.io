@@ -14,7 +14,8 @@ She is the Trainings Director for [EGAP (Evidence in Governance and Politics)](h
 
 - [*NEW*: Bowers, Voors, and Ichino.  2021.  _The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days_](https://egap.github.io/theory_and_practice_of_field_experiments/) (Open access resource)
 
-- [*NEW*: Bowers, Voors, and Ichino.  2021.  _The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days_ (SPANISH VERSION, translated by Lily Medina)](https://egap.github.io/theory_and_practice_of_field_experiments_spanish/) (Open access resource)
+- [*NEW*: Bowers, Voors, and Ichino.  2021.  _La teoría y la práctica de los experimentos de campo:
+Una introducción de los Learning Days de EGAP_ (in SPANISH, translated by Lily Medina)](https://egap.github.io/theory_and_practice_of_field_experiments_spanish/) (Open access resource)
 
 - *NEW*: Ichino and Nathan.  2021.  ["Democratizing the Party: The Effects of Primary Election Reforms in Ghana."](https://www.doi.org/10.1017/S0007123421000028)  Now on _FirstView_ (vol/issue tba), _British Journal of Political Science_.
 
