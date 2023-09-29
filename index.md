@@ -6,7 +6,7 @@ Nahomi Ichino is an associate professor in the [Department of Political Science]
 
 She was previously on the faculty in the Department of Government at Harvard University and the Department of Political Science at the University of Michigan.  Ph.D. Stanford University, B.A. Yale University.
 
-She is the Trainings Director for [EGAP (Evidence in Governance and Politics)](https://egap.org), coordinating and organizing the [EGAP Learning Days](https://egap.org/learning-days/) with EGAP staff.
+She is the co-Director of Methods and Trainings for [EGAP (Evidence in Governance and Politics)](https://egap.org).
 
 
 
